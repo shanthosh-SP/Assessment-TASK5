@@ -1,10 +1,18 @@
 # Assessment-Task5
 
 Used Languages and Tools:
-Python
-Visual Studio(SSIS)
-PostgreSQL
-Excel Sheet
+Python==3.9
+Visual Studio(SSIS)==16.11
+PostgreSQL==14.5
+Excel Sheet 2019
+
+Python Packages versions:
+Pandas==1.4.2
+Numpy==1.21.5
+psycopg2==2.9.3
+sqlalchemy== 1.4.32
+Gender-guesser==0.4.0
+
 
 1.
 Pre-processing the dataset
